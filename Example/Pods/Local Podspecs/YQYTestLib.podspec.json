@@ -1,0 +1,22 @@
+{
+  "name": "YQYTestLib",
+  "version": "0.1.0",
+  "summary": "A short description of YQYTestLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/13221017341@163.com/YQYTestLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "13221017341@163.com": "<13221017341@163.com>"
+  },
+  "source": {
+    "git": "https://github.com/13221017341@163.com/YQYTestLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YQYTestLib/Classes/**/*"
+}

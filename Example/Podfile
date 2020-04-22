@@ -1,0 +1,6 @@
+use_frameworks!
+target 'YQYTestLib_Tests' do
+  pod 'YQYTestLib', :path => '../'
+  
+  
+end

@@ -1,6 +1,6 @@
 //
-//  CMTest.h
-//  
+//  HeightTool.h
+//  Pods-YQYTestLib_Tests
 //
 //  Created by iss on 2020/4/22.
 //
@@ -9,8 +9,8 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface CMTest : NSObject
-+ (void)logString;
+@interface HeightTool : NSObject
+
 @end
 
 NS_ASSUME_NONNULL_END

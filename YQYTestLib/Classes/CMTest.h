@@ -10,7 +10,7 @@
 NS_ASSUME_NONNULL_BEGIN
 
 @interface CMTest : NSObject
-+ (void)logStringl;
++ (void)logString;
 @end
 
 NS_ASSUME_NONNULL_END

@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'YQYTestLib'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of YQYTestLib.'
+  s.summary          = 'test'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -17,13 +17,13 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = 'test'
+  s.description      = 'this is a test'
 
-  s.homepage         = 'https://github.com/yqy159/YQYTestSpec'
+  s.homepage         = 'https://github.com/yqy159/YQYTest'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '13221017341@163.com' => '<13221017341@163.com>' }
-  s.source           = { :git => 'https://github.com/yqy159/YQYTestSpec.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/yqy159/YQYTest.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
